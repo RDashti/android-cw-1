@@ -1,0 +1,13 @@
+   int x = 10
+        int y = 15
+        int r = x+y
+        int h = x*y
+        int z = x==y
+        
+        
+        
+        System.out.println(x);
+        System.out.println(y);
+        System.out.println(r);
+        System.out.println(h);
+        System.out.println(z);
